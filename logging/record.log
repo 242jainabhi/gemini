@@ -1,0 +1,28 @@
+2021-06-10 17:51:35,413 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-10 17:51:35,825 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-10 17:51:35,841 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-10 17:51:35,872 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-10 17:52:26,761 INFO werkzeug Thread-2 : 127.0.0.1 - - [10/Jun/2021 17:52:26] "GET / HTTP/1.1" 200 -
+2021-06-10 17:52:27,046 INFO werkzeug Thread-3 : 127.0.0.1 - - [10/Jun/2021 17:52:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-06-10 17:52:36,018 INFO werkzeug Thread-4 : 127.0.0.1 - - [10/Jun/2021 17:52:36] "GET / HTTP/1.1" 200 -
+2021-06-10 17:52:43,128 INFO werkzeug Thread-5 : 127.0.0.1 - - [10/Jun/2021 17:52:43] "GET /health HTTP/1.1" 200 -
+2021-06-10 17:53:20,516 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\health_check.py', reloading
+2021-06-10 17:53:20,562 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-10 17:53:21,069 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-10 17:53:21,077 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-10 17:53:21,109 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-10 17:53:56,580 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\health_check.py', reloading
+2021-06-10 17:53:56,642 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-10 17:59:48,576 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-10 17:59:48,995 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-10 17:59:49,010 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-10 17:59:49,026 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-10 18:00:04,679 INFO application Thread-2 : Info level log
+2021-06-10 18:00:04,680 WARNING application Thread-2 : Warning level log
+2021-06-10 18:00:04,684 INFO werkzeug Thread-2 : 127.0.0.1 - - [10/Jun/2021 18:00:04] "GET /health HTTP/1.1" 200 -
+2021-06-10 18:00:43,096 INFO werkzeug Thread-3 : 127.0.0.1 - - [10/Jun/2021 18:00:43] "GET / HTTP/1.1" 200 -
+2021-06-10 18:00:51,953 INFO werkzeug Thread-4 : 127.0.0.1 - - [10/Jun/2021 18:00:51] "GET / HTTP/1.1" 200 -
+2021-06-10 18:00:54,105 INFO werkzeug Thread-5 : 127.0.0.1 - - [10/Jun/2021 18:00:54] "GET / HTTP/1.1" 200 -
+2021-06-10 18:01:12,346 INFO application Thread-6 : Info level log
+2021-06-10 18:01:12,347 WARNING application Thread-6 : Warning level log
+2021-06-10 18:01:12,350 INFO werkzeug Thread-6 : 127.0.0.1 - - [10/Jun/2021 18:01:12] "GET /health HTTP/1.1" 200 -
