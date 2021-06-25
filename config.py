@@ -21,7 +21,8 @@ class DevConfig(Config):
     ENV = 'development'
     DEBUG = True
     TESTING = True
-    DATABASE_URI = environ.get('DEV_DATABASE_URI')
+    SQLALCHEMY_DATABASE_URI = "mysql+pymysql://root:root123@localhost/geminidb"
+    SQLALCHEMY_TRACK_MODIFICATIONS = False
 
 
 class TestConfig(Config):

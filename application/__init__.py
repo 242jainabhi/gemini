@@ -8,12 +8,19 @@ if project_path not in sys.path:
 import logging
 from flask import Flask
 from config import DevConfig
+from flask_sqlalchemy import SQLAlchemy
+from flask_migrate import Migrate
+
+db = SQLAlchemy()
+migrate = Migrate()
 
 
 def create_app():
     """Create Flask app."""
     app = Flask(__name__)
     app.config.from_object(DevConfig())
+    db.init_app(app)
+    migrate.init_app(app, db)
 
     # Register components
     return app

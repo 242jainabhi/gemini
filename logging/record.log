@@ -26,3 +26,1257 @@
 2021-06-10 18:01:12,346 INFO application Thread-6 : Info level log
 2021-06-10 18:01:12,347 WARNING application Thread-6 : Warning level log
 2021-06-10 18:01:12,350 INFO werkzeug Thread-6 : 127.0.0.1 - - [10/Jun/2021 18:01:12] "GET /health HTTP/1.1" 200 -
+2021-06-16 21:36:35,668 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-16 21:36:36,274 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-16 21:36:36,350 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-16 21:36:36,479 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-16 21:36:36,480 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-16 21:36:51,570 WARNING werkzeug MainThread :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-16 21:36:51,570 INFO werkzeug MainThread :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-16 21:37:04,747 WARNING werkzeug MainThread :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-16 21:37:04,747 INFO werkzeug MainThread :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-16 21:37:50,879 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-16 21:37:51,352 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-16 21:37:51,360 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-16 21:37:51,392 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-16 21:37:51,393 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-23 00:14:49,222 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-23 00:14:49,763 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-23 00:14:49,903 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-23 00:14:50,053 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-23 00:14:50,053 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-23 00:15:19,660 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-23 00:15:20,107 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-23 00:15:20,117 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-23 00:15:20,145 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-23 00:15:20,145 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-23 00:16:22,526 INFO application Thread-2 : Info level log
+2021-06-23 00:16:22,527 WARNING application Thread-2 : Warning level log
+2021-06-23 00:16:22,531 INFO werkzeug Thread-2 : 127.0.0.1 - - [23/Jun/2021 00:16:22] "GET /health HTTP/1.1" 200 -
+2021-06-23 00:16:23,152 INFO werkzeug Thread-3 : 127.0.0.1 - - [23/Jun/2021 00:16:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-06-23 00:16:42,472 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\manage.py', reloading
+2021-06-23 00:16:42,506 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-23 00:16:43,009 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-23 00:16:43,021 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-23 00:16:43,051 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-23 00:16:44,467 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-23 00:16:44,893 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-23 00:16:44,902 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-23 00:16:44,929 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-23 00:16:57,590 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-23 00:16:58,017 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-23 00:16:58,026 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-23 00:16:58,053 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-23 00:18:33,695 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-23 00:18:34,157 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-23 00:18:34,167 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-23 00:18:34,198 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-23 00:18:46,040 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\manage.py', reloading
+2021-06-23 00:18:46,081 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-23 00:18:46,545 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-23 00:18:46,555 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-23 00:18:46,586 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-23 00:18:46,586 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-23 00:18:49,431 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-23 00:18:49,952 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-23 00:18:49,962 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-23 00:18:50,026 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-23 00:18:50,026 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-23 00:18:51,084 INFO application Thread-3 : Info level log
+2021-06-23 00:18:51,084 WARNING application Thread-3 : Warning level log
+2021-06-23 00:18:51,087 INFO werkzeug Thread-3 : 127.0.0.1 - - [23/Jun/2021 00:18:51] "GET /health HTTP/1.1" 200 -
+2021-06-23 12:17:54,890 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-23 12:17:56,042 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-23 12:17:56,138 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-23 12:17:56,242 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-23 12:17:56,242 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-23 18:08:07,470 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-23 18:08:08,237 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-23 18:08:08,488 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-23 18:08:08,716 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-23 18:08:08,717 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-23 18:09:11,792 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-23 18:09:12,424 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-23 18:09:12,432 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-23 18:09:12,481 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-23 18:09:12,482 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-23 20:39:57,201 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-23 20:39:57,900 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-23 20:39:58,009 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-23 20:39:58,135 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-23 20:39:58,136 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-23 20:42:16,386 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-23 20:42:17,001 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-23 20:42:17,009 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-23 20:42:17,047 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-23 20:42:17,047 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-23 21:04:50,739 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-23 21:04:51,415 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-23 21:04:51,423 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-23 21:04:51,462 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-23 21:04:51,462 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-23 21:21:18,149 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-23 21:21:18,983 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-23 21:21:18,992 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-23 21:21:19,033 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-23 21:21:19,033 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-23 23:35:22,386 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-23 23:35:23,012 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-23 23:35:23,027 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-23 23:35:23,058 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-23 23:35:23,058 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-23 23:35:38,895 INFO werkzeug Thread-2 : 127.0.0.1 - - [23/Jun/2021 23:35:38] "GET / HTTP/1.1" 200 -
+2021-06-23 23:35:43,798 INFO application Thread-3 : Info level log
+2021-06-23 23:35:43,799 WARNING application Thread-3 : Warning level log
+2021-06-23 23:35:43,801 INFO werkzeug Thread-3 : 127.0.0.1 - - [23/Jun/2021 23:35:43] "GET /health HTTP/1.1" 200 -
+2021-06-23 23:35:47,156 INFO werkzeug Thread-4 : 127.0.0.1 - - [23/Jun/2021 23:35:47] "GET /user HTTP/1.1" 200 -
+2021-06-23 23:35:57,343 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\__init__.py', reloading
+2021-06-23 23:35:57,437 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-23 23:35:58,251 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-23 23:35:58,251 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-23 23:35:58,298 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-23 23:35:58,298 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-23 23:36:15,894 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-23 23:36:15,975 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-23 23:36:16,658 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-23 23:36:16,668 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-23 23:36:16,710 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-23 23:36:16,710 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:04:20,508 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:04:21,139 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:04:21,147 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:04:21,188 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:04:21,189 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:05:04,684 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 00:05:04] "GET / HTTP/1.1" 200 -
+2021-06-24 00:05:08,044 INFO application Thread-3 : Info level log
+2021-06-24 00:05:08,044 WARNING application Thread-3 : Warning level log
+2021-06-24 00:05:08,046 INFO werkzeug Thread-3 : 127.0.0.1 - - [24/Jun/2021 00:05:08] "GET /health HTTP/1.1" 200 -
+2021-06-24 00:05:11,873 INFO werkzeug Thread-4 : 127.0.0.1 - - [24/Jun/2021 00:05:11] "[33mGET /health/user HTTP/1.1[0m" 404 -
+2021-06-24 00:05:20,103 INFO werkzeug Thread-5 : 127.0.0.1 - - [24/Jun/2021 00:05:20] "GET /user HTTP/1.1" 200 -
+2021-06-24 00:07:11,438 INFO werkzeug Thread-6 : 127.0.0.1 - - [24/Jun/2021 00:07:11] "[31m[1mPOST /user HTTP/1.1[0m" 400 -
+2021-06-24 00:08:33,785 INFO werkzeug Thread-7 : 127.0.0.1 - - [24/Jun/2021 00:08:33] "[35m[1mPOST /user HTTP/1.1[0m" 500 -
+2021-06-24 00:09:40,781 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\user.py', reloading
+2021-06-24 00:09:41,060 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:09:41,768 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:09:41,778 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:09:41,819 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:09:41,820 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:11:25,357 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 00:11:25] "[35m[1mPOST /user HTTP/1.1[0m" 500 -
+2021-06-24 00:11:56,314 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\user.py', reloading
+2021-06-24 00:11:56,399 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:11:57,183 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:11:57,191 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:11:57,230 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:11:57,230 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:16:11,633 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\user.py', reloading
+2021-06-24 00:16:11,714 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:16:12,476 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:16:12,486 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:16:12,526 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:16:12,527 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:16:22,319 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 00:16:22] "[35m[1mPOST /user HTTP/1.1[0m" 500 -
+2021-06-24 00:24:43,443 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:24:44,087 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:24:44,095 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:24:44,142 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:24:44,143 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:24:47,883 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 00:24:47] "[35m[1mPOST /user HTTP/1.1[0m" 500 -
+2021-06-24 00:25:09,095 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 00:25:09,211 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:25:09,934 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:25:09,942 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:25:09,983 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:25:09,984 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:25:20,028 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:25:20,680 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:25:20,690 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:25:20,731 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:25:20,731 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:25:22,934 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 00:25:22] "[35m[1mPOST /user HTTP/1.1[0m" 500 -
+2021-06-24 00:25:42,249 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 00:25:42,382 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:25:43,186 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:25:43,196 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:25:43,243 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:25:43,243 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:25:46,223 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 00:25:46] "[31m[1mPOST /user HTTP/1.1[0m" 400 -
+2021-06-24 00:26:04,491 INFO werkzeug Thread-3 : 127.0.0.1 - - [24/Jun/2021 00:26:04] "POST /user HTTP/1.1" 200 -
+2021-06-24 00:28:22,116 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\user.py', reloading
+2021-06-24 00:28:22,195 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:28:22,959 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:28:22,968 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:28:23,019 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:28:23,019 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:29:03,753 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\user.py', reloading
+2021-06-24 00:29:03,881 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:29:04,592 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:29:04,601 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:29:04,639 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:29:04,640 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:29:33,065 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\workspace.py', reloading
+2021-06-24 00:29:33,130 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:29:33,814 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:29:33,823 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:29:33,865 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:29:33,865 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:29:37,040 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 00:29:37] "POST /user HTTP/1.1" 200 -
+2021-06-24 00:29:44,787 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:29:45,491 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:29:45,500 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:29:45,540 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:29:45,540 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:29:47,093 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 00:29:47] "POST /user HTTP/1.1" 200 -
+2021-06-24 00:31:53,705 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:31:54,376 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:31:54,384 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:31:54,424 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:31:54,425 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:31:58,978 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 00:31:58] "POST /user HTTP/1.1" 200 -
+2021-06-24 00:32:01,610 INFO werkzeug Thread-3 : 127.0.0.1 - - [24/Jun/2021 00:32:01] "[35m[1mPOST /user HTTP/1.1[0m" 500 -
+2021-06-24 00:33:43,081 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 00:33:43,167 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:37:04,937 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:37:05,562 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:37:05,571 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:37:05,610 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:37:05,610 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:37:09,030 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 00:37:09] "[35m[1mGET /user HTTP/1.1[0m" 500 -
+2021-06-24 00:37:26,652 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 00:37:26,727 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:37:27,538 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:37:27,551 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:37:27,612 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:37:27,612 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:37:28,835 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 00:37:28] "[35m[1mGET /user HTTP/1.1[0m" 500 -
+2021-06-24 00:37:47,909 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 00:37:48,000 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:37:48,665 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:37:48,673 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:37:48,714 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:37:48,714 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:37:54,271 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 00:37:54,355 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:37:55,060 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:37:55,069 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:37:55,110 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:37:55,110 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:37:55,953 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 00:37:55] "GET /user HTTP/1.1" 200 -
+2021-06-24 00:38:19,704 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 00:38:19,825 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:38:20,585 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:38:20,594 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:38:20,634 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:38:20,635 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:38:22,212 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 00:38:22] "GET /user HTTP/1.1" 200 -
+2021-06-24 00:38:45,397 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 00:38:45,486 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:38:46,157 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:38:46,165 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:38:46,205 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:38:46,205 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:38:49,125 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 00:38:49] "GET /user HTTP/1.1" 200 -
+2021-06-24 00:40:41,741 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 00:40:41,832 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:40:42,647 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:40:42,664 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:40:42,699 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:40:42,699 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:41:14,575 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 00:41:14] "GET /user HTTP/1.1" 200 -
+2021-06-24 00:41:43,340 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 00:41:43,415 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:41:44,139 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:41:44,147 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:41:44,190 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:41:44,190 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:41:45,818 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 00:41:45] "[35m[1mGET /user HTTP/1.1[0m" 500 -
+2021-06-24 00:42:09,734 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 00:42:09,822 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:42:10,497 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:42:10,516 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:42:10,573 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:42:10,573 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:42:11,731 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 00:42:11,813 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:42:12,495 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:42:12,504 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:42:12,550 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:42:12,550 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:42:13,887 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 00:42:13] "GET /user HTTP/1.1" 200 -
+2021-06-24 00:42:29,290 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 00:42:29,369 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:42:30,105 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:42:30,113 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:42:30,152 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:42:30,152 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:42:33,024 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 00:42:33] "GET /user HTTP/1.1" 200 -
+2021-06-24 00:43:01,511 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 00:43:01,612 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:43:02,475 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:43:02,487 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:43:02,529 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:43:02,529 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:43:03,696 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 00:43:03] "GET /user HTTP/1.1" 200 -
+2021-06-24 00:43:41,593 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 00:43:41,704 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 00:43:42,422 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 00:43:42,431 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 00:43:42,472 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 00:43:42,472 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 00:43:44,601 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 00:43:44] "GET /user HTTP/1.1" 200 -
+2021-06-24 18:32:27,619 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 18:32:28,418 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 18:32:28,850 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 18:32:29,108 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 18:32:29,109 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 18:32:39,858 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 18:32:39] "GET / HTTP/1.1" 200 -
+2021-06-24 18:32:46,012 INFO werkzeug Thread-3 : 127.0.0.1 - - [24/Jun/2021 18:32:46] "GET /user HTTP/1.1" 200 -
+2021-06-24 18:33:16,394 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 18:33:16,664 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 18:33:17,593 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 18:33:17,602 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 18:33:17,643 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 18:33:17,643 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 18:33:33,026 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\routes.py', reloading
+2021-06-24 18:33:33,124 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 18:33:33,879 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 18:33:33,887 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 18:33:33,930 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 18:33:33,930 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 18:33:44,874 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\routes.py', reloading
+2021-06-24 18:33:44,979 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 18:33:45,742 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 18:33:45,751 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 18:33:45,798 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 18:33:45,798 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:07:00,049 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:07:00] "GET /users HTTP/1.1" 200 -
+2021-06-24 19:07:28,139 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\routes.py', reloading
+2021-06-24 19:07:28,213 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:07:29,097 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:07:29,108 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:07:29,150 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:07:29,150 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:07:58,716 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:07:58,796 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:07:59,551 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:07:59,561 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:07:59,603 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:07:59,603 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:09:43,999 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:09:44,113 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:09:45,067 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:09:45,085 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:09:45,142 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:09:45,142 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:09:56,088 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:09:56,179 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:10:45,379 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:10:46,066 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:10:46,088 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:10:46,147 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:10:46,147 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:10:47,504 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:10:47] "[35m[1mGET /user/1 HTTP/1.1[0m" 500 -
+2021-06-24 19:11:04,639 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:11:04,728 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:11:05,435 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:11:05,445 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:11:05,488 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:11:05,488 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:11:11,214 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:11:11] "[35m[1mGET /user/1 HTTP/1.1[0m" 500 -
+2021-06-24 19:11:21,085 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:11:21,184 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:11:21,978 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:11:21,986 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:11:22,030 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:11:22,031 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:11:23,439 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:11:23] "GET /user/1 HTTP/1.1" 200 -
+2021-06-24 19:11:26,699 INFO werkzeug Thread-3 : 127.0.0.1 - - [24/Jun/2021 19:11:26] "GET /user/1 HTTP/1.1" 200 -
+2021-06-24 19:11:47,027 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:11:47,126 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:11:47,852 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:11:47,860 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:11:47,904 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:11:47,905 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:11:55,612 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:11:55,699 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:11:56,519 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:11:56,527 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:11:56,573 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:11:56,573 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:12:06,921 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:12:06] "GET /user/1 HTTP/1.1" 200 -
+2021-06-24 19:14:04,233 INFO werkzeug Thread-3 : 127.0.0.1 - - [24/Jun/2021 19:14:04] "[33mPOST /user HTTP/1.1[0m" 404 -
+2021-06-24 19:15:47,014 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\routes.py', reloading
+2021-06-24 19:15:47,133 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:16:09,399 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:16:10,016 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:16:10,032 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:16:10,079 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:16:10,079 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:16:16,288 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:16:16] "POST /user HTTP/1.1" 200 -
+2021-06-24 19:17:02,530 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:17:02,957 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:17:04,098 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:17:04,108 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:17:04,150 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:17:04,150 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:17:50,432 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:17:50,515 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:17:51,245 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:17:51,254 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:17:51,308 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:17:51,308 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:17:59,674 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:17:59] "[35m[1mPOST /user HTTP/1.1[0m" 500 -
+2021-06-24 19:19:02,836 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:19:03,120 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:21:33,438 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:21:34,111 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:21:34,120 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:21:34,160 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:21:34,161 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:21:36,595 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:21:36] "[35m[1mPOST /user HTTP/1.1[0m" 500 -
+2021-06-24 19:22:43,142 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:22:43,239 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:22:44,135 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:22:44,135 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:22:44,182 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:22:44,182 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:22:51,423 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:22:51] "[35m[1mPOST /user HTTP/1.1[0m" 500 -
+2021-06-24 19:23:45,423 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:23:45,543 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:23:46,367 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:23:46,376 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:23:46,421 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:23:46,422 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:23:48,975 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:23:48] "POST /user HTTP/1.1" 200 -
+2021-06-24 19:23:58,838 INFO werkzeug Thread-3 : 127.0.0.1 - - [24/Jun/2021 19:23:58] "POST /user HTTP/1.1" 200 -
+2021-06-24 19:25:15,917 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:25:16,026 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:25:16,766 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:25:16,766 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:25:16,813 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:25:16,813 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:25:27,942 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:25:27] "POST /user HTTP/1.1" 200 -
+2021-06-24 19:26:54,669 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:26:54,873 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:26:55,708 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:26:55,717 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:26:55,761 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:26:55,761 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:27:14,430 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:27:14,527 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:27:15,280 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:27:15,289 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:27:15,367 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:27:15,367 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:27:21,005 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:27:21] "POST /user HTTP/1.1" 200 -
+2021-06-24 19:27:25,465 INFO werkzeug Thread-3 : 127.0.0.1 - - [24/Jun/2021 19:27:25] "POST /user HTTP/1.1" 200 -
+2021-06-24 19:27:39,474 INFO werkzeug Thread-4 : 127.0.0.1 - - [24/Jun/2021 19:27:39] "POST /user HTTP/1.1" 200 -
+2021-06-24 19:27:44,649 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:27:44,734 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:27:45,491 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:27:45,502 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:27:45,546 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:27:45,546 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:27:53,417 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:27:53] "POST /user HTTP/1.1" 200 -
+2021-06-24 19:27:55,490 INFO werkzeug Thread-3 : 127.0.0.1 - - [24/Jun/2021 19:27:55] "POST /user HTTP/1.1" 200 -
+2021-06-24 19:28:07,665 INFO werkzeug Thread-4 : 127.0.0.1 - - [24/Jun/2021 19:28:07] "POST /user HTTP/1.1" 200 -
+2021-06-24 19:28:34,111 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:28:34,780 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:28:34,788 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:28:34,830 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:28:34,830 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:28:38,926 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:28:38] "POST /user HTTP/1.1" 200 -
+2021-06-24 19:28:45,226 INFO werkzeug Thread-3 : 127.0.0.1 - - [24/Jun/2021 19:28:45] "POST /user HTTP/1.1" 200 -
+2021-06-24 19:29:44,244 INFO werkzeug Thread-4 : 127.0.0.1 - - [24/Jun/2021 19:29:44] "GET /users HTTP/1.1" 200 -
+2021-06-24 19:30:00,543 INFO werkzeug Thread-5 : 127.0.0.1 - - [24/Jun/2021 19:30:00] "GET /user/9 HTTP/1.1" 200 -
+2021-06-24 19:30:05,584 INFO werkzeug Thread-6 : 127.0.0.1 - - [24/Jun/2021 19:30:05] "[35m[1mGET /user/10 HTTP/1.1[0m" 500 -
+2021-06-24 19:30:32,426 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:30:32,526 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:30:33,207 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:30:33,216 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:30:33,257 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:30:33,258 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:30:38,975 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:30:38] "GET /user/10 HTTP/1.1" 200 -
+2021-06-24 19:33:45,523 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:33:45,627 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:33:46,347 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:33:46,356 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:33:46,401 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:33:46,401 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:33:56,163 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:33:56] "POST /user HTTP/1.1" 200 -
+2021-06-24 19:36:05,281 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:36:05,374 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:36:06,031 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:36:06,046 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:36:06,093 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:36:06,093 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:37:35,258 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:37:35,367 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:37:36,162 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:37:36,171 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:37:36,213 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:37:36,213 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:37:54,461 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:37:54] "[35m[1mDELETE /user/10 HTTP/1.1[0m" 500 -
+2021-06-24 19:39:59,414 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:39:59,515 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:40:00,291 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:40:00,300 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:40:00,345 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:40:00,345 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:40:10,718 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:40:10] "DELETE /user/10 HTTP/1.1" 200 -
+2021-06-24 19:40:32,859 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:40:32,949 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:40:33,661 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:40:33,670 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:40:33,713 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:40:33,713 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:40:38,206 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:40:38,389 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:40:39,126 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:40:39,135 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:40:39,176 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:40:39,176 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:40:52,302 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:40:52] "DELETE /user/17 HTTP/1.1" 200 -
+2021-06-24 19:41:06,759 INFO werkzeug Thread-3 : 127.0.0.1 - - [24/Jun/2021 19:41:06] "DELETE /user/18 HTTP/1.1" 200 -
+2021-06-24 19:42:47,135 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:42:47,239 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:42:48,346 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:42:48,387 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:42:48,606 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:42:48,606 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:44:06,534 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:44:06,606 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:44:07,352 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:44:07,361 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:44:07,401 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:44:07,401 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:44:10,545 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:44:10] "[33mDELETE /user/108 HTTP/1.1[0m" 404 -
+2021-06-24 19:44:33,955 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:44:34,084 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:44:34,962 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:44:34,971 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:44:35,019 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:44:35,019 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:44:37,435 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:44:37] "[33mDELETE /user/108 HTTP/1.1[0m" 404 -
+2021-06-24 19:44:46,465 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:44:47,213 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:44:47,222 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:44:47,266 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:44:47,267 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:44:48,910 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:44:48] "[33mDELETE /user/108 HTTP/1.1[0m" 404 -
+2021-06-24 19:44:59,366 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:44:59,444 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:45:00,179 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:45:00,188 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:45:00,229 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:45:00,230 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:45:02,944 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:45:03,624 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:45:03,633 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:45:03,671 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:45:03,672 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:45:05,315 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:45:05] "[33mDELETE /user/108 HTTP/1.1[0m" 404 -
+2021-06-24 19:46:22,910 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:46:23,000 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:46:23,720 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:46:23,720 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:46:23,767 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:46:23,767 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:46:24,570 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:46:24] "[33mDELETE /user/108 HTTP/1.1[0m" 404 -
+2021-06-24 19:48:36,184 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:48:36,273 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:48:36,997 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:48:37,006 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:48:37,054 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:48:37,055 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:49:46,498 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:49:46,581 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:49:47,505 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:49:47,516 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:49:47,568 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:49:47,569 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:49:52,916 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:49:52,985 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:49:53,708 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:49:53,717 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:49:53,758 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:49:53,759 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:50:02,591 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:50:02,699 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:51:37,855 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:51:38,524 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:51:38,533 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:51:38,578 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:51:38,578 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:52:54,085 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:52:54] "PUT /user/15 HTTP/1.1" 200 -
+2021-06-24 19:53:40,649 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:53:40,751 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:53:41,674 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:53:41,682 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:53:41,731 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:53:41,731 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:54:12,566 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:54:12] "GET /users HTTP/1.1" 200 -
+2021-06-24 19:54:45,807 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:54:45,942 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:54:46,776 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:54:46,785 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:54:46,830 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:54:46,831 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:54:51,835 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:54:52,565 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:54:52,574 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:54:52,624 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:54:52,625 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:54:55,414 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 19:54:55] "GET /users HTTP/1.1" 200 -
+2021-06-24 19:57:59,389 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:57:59,488 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:58:00,317 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:58:00,326 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:58:00,368 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:58:00,368 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:58:22,602 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 19:58:22,689 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:58:23,437 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:58:23,446 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:58:23,490 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:58:23,491 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 19:58:50,983 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\routes.py', reloading
+2021-06-24 19:58:51,141 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 19:58:51,953 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 19:58:51,961 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 19:58:52,005 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 19:58:52,005 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:04:54,617 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:04:55,554 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:05:02,852 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:05:03,012 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:05:03,364 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:05:03,364 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:05:44,438 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:05:44,728 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:05:45,840 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:05:45,856 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:05:45,912 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:05:45,912 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:06:08,189 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:06:08,447 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:06:09,496 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:06:09,512 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:06:09,559 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:06:09,559 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:06:42,661 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:06:42,765 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:06:43,853 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:06:43,861 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:06:43,909 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:06:43,909 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:07:27,938 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:07:28,034 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:07:28,778 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:07:28,786 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:07:28,834 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:07:28,834 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:07:56,548 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:07:56,652 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:07:57,388 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:07:57,405 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:07:57,444 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:07:57,444 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:08:28,509 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:08:28,605 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:08:29,773 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:08:29,797 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:08:29,869 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:08:29,869 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:09:17,026 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:09:17,202 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:09:18,090 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:09:18,098 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:09:18,154 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:09:18,154 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:09:41,688 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:09:41,777 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:09:42,643 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:09:42,643 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:09:42,690 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:09:42,690 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:10:23,646 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:10:23,742 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:10:24,910 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:10:24,926 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:10:25,014 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:10:25,014 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:11:01,597 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:11:01,726 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:11:05,559 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:11:05,662 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:11:06,303 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:11:06,303 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:11:13,201 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:11:13,273 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:11:14,105 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:11:14,113 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:11:14,169 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:11:14,169 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:11:32,761 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:11:32,849 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:11:33,771 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:11:33,779 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:11:33,851 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:11:33,859 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:11:49,447 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:11:49,543 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:11:50,447 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:11:50,455 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:11:50,503 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:11:50,503 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:12:03,753 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-24 21:12:03,873 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:12:04,897 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:12:04,905 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:12:04,953 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:12:04,953 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:12:11,610 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:12:11,674 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:12:12,731 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:12:12,771 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:12:12,883 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:12:12,883 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:12:29,387 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:12:29,475 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:15:57,952 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:15:58,811 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:15:58,827 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:15:58,873 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:15:58,873 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:16:59,560 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 21:16:59] "POST /workspace HTTP/1.1" 200 -
+2021-06-24 21:17:18,608 INFO werkzeug Thread-3 : 127.0.0.1 - - [24/Jun/2021 21:17:18] "POST /workspace HTTP/1.1" 200 -
+2021-06-24 21:17:31,890 INFO werkzeug Thread-4 : 127.0.0.1 - - [24/Jun/2021 21:17:31] "POST /workspace HTTP/1.1" 200 -
+2021-06-24 21:18:14,033 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:18:14,153 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:18:32,319 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:18:33,263 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:18:33,279 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:18:33,351 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:18:33,351 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:18:35,160 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 21:18:35] "[35m[1mPOST /workspace HTTP/1.1[0m" 500 -
+2021-06-24 21:19:21,342 INFO werkzeug Thread-3 : 127.0.0.1 - - [24/Jun/2021 21:19:21] "[35m[1mPOST /workspace HTTP/1.1[0m" 500 -
+2021-06-24 21:20:25,735 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:20:25,879 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:20:26,975 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:20:26,983 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:20:27,031 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:20:27,031 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:21:22,065 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 21:21:22] "POST /workspace HTTP/1.1" 200 -
+2021-06-24 21:21:39,613 INFO werkzeug Thread-3 : 127.0.0.1 - - [24/Jun/2021 21:21:39] "POST /workspace HTTP/1.1" 200 -
+2021-06-24 21:22:12,536 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:22:12,656 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:22:13,697 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:22:13,721 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:22:13,769 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:22:13,769 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:22:32,648 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:22:32,752 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:22:33,824 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:22:33,840 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:22:33,928 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:22:33,936 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:22:34,889 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 21:22:34] "POST /workspace HTTP/1.1" 200 -
+2021-06-24 21:22:55,047 INFO werkzeug Thread-3 : 127.0.0.1 - - [24/Jun/2021 21:22:55] "POST /workspace HTTP/1.1" 200 -
+2021-06-24 21:23:31,832 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:23:31,913 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:23:33,017 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:23:33,025 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:23:33,081 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:23:33,081 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:23:35,433 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 21:23:35] "[35m[1mPOST /workspace HTTP/1.1[0m" 500 -
+2021-06-24 21:24:08,581 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:24:08,709 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:24:09,909 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:24:09,917 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:24:10,029 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:24:10,029 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:24:10,517 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 21:24:10] "POST /workspace HTTP/1.1" 200 -
+2021-06-24 21:24:56,645 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:24:56,797 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:24:57,902 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:24:57,918 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:24:57,974 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:24:57,974 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:24:58,462 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 21:24:58] "[35m[1mPOST /workspace HTTP/1.1[0m" 0 -
+2021-06-24 21:25:21,234 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:25:21,306 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:25:22,434 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:25:22,450 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:25:22,530 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:25:22,530 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:25:23,714 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 21:25:23] "[35m[1mPOST /workspace HTTP/1.1[0m" 500 -
+2021-06-24 21:26:40,482 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:26:40,607 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:26:41,793 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:26:41,809 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:26:41,881 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:26:41,881 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:26:42,572 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 21:26:42] "POST /workspace HTTP/1.1" 200 -
+2021-06-24 21:27:36,285 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:27:36,454 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:27:37,920 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:27:37,944 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:27:38,064 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:27:38,064 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:27:39,867 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 21:27:39] "[33mDELETE /user/108 HTTP/1.1[0m" 404 -
+2021-06-24 21:27:49,552 INFO werkzeug Thread-3 : 127.0.0.1 - - [24/Jun/2021 21:27:49] "[33mDELETE /user/108 HTTP/1.1[0m" 404 -
+2021-06-24 21:28:02,181 INFO werkzeug Thread-4 : 127.0.0.1 - - [24/Jun/2021 21:28:02] "[35m[1mPOST /workspace HTTP/1.1[0m" 500 -
+2021-06-24 21:28:11,257 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:28:11,361 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:28:12,594 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:28:12,602 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:28:12,650 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:28:12,650 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:28:13,322 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 21:28:13] "POST /workspace HTTP/1.1" 200 -
+2021-06-24 21:28:28,322 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:28:28,394 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:28:29,706 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:28:29,738 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:28:29,794 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:28:29,802 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:28:30,402 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 21:28:30] "[35m[1mPOST /workspace HTTP/1.1[0m" 500 -
+2021-06-24 21:29:05,605 INFO werkzeug Thread-3 : 127.0.0.1 - - [24/Jun/2021 21:29:05] "[35m[1mPOST /workspace HTTP/1.1[0m" 500 -
+2021-06-24 21:29:33,172 INFO werkzeug Thread-4 : 127.0.0.1 - - [24/Jun/2021 21:29:33] "[35m[1mPOST /workspace HTTP/1.1[0m" 500 -
+2021-06-24 21:30:21,581 INFO werkzeug Thread-5 : 127.0.0.1 - - [24/Jun/2021 21:30:21] "[35m[1mPOST /workspace HTTP/1.1[0m" 500 -
+2021-06-24 21:30:28,392 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:30:28,529 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:30:30,073 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:30:30,081 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:30:30,201 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:30:30,209 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:30:31,249 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 21:30:31] "POST /workspace HTTP/1.1" 200 -
+2021-06-24 21:30:35,819 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:30:35,963 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:30:41,888 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:30:41,904 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:30:41,994 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:30:41,994 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:30:43,350 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 21:30:43] "POST /workspace HTTP/1.1" 200 -
+2021-06-24 21:30:47,791 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:30:47,879 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:30:49,247 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:30:49,263 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:30:49,351 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:30:49,351 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:30:49,671 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 21:30:49] "[35m[1mPOST /workspace HTTP/1.1[0m" 500 -
+2021-06-24 21:31:05,286 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:31:05,454 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:31:07,607 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:31:07,623 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:31:07,712 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:31:07,712 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:31:11,137 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:31:11,225 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:31:12,674 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:31:12,698 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:31:12,794 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:31:12,794 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:31:13,162 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 21:31:13] "POST /workspace HTTP/1.1" 200 -
+2021-06-24 21:31:20,902 INFO werkzeug Thread-3 : 127.0.0.1 - - [24/Jun/2021 21:31:20] "POST /workspace HTTP/1.1" 200 -
+2021-06-24 21:32:14,718 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:32:14,823 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:32:16,127 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:32:16,135 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:32:16,247 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:32:16,247 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:32:16,591 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 21:32:16] "POST /workspace HTTP/1.1" 200 -
+2021-06-24 21:32:29,650 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:32:29,754 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:32:31,122 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:32:31,130 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:32:31,186 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:32:31,194 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:32:31,698 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 21:32:31] "[35m[1mPOST /workspace HTTP/1.1[0m" 500 -
+2021-06-24 21:32:54,841 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:32:55,000 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:32:56,529 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:32:56,537 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:32:56,649 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:32:56,649 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:32:57,777 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-24 21:32:57,882 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:32:59,282 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:32:59,298 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:32:59,394 WARNING werkzeug Thread-1 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-24 21:32:59,394 INFO werkzeug Thread-1 :  * Running on http://192.168.0.103:8080/ (Press CTRL+C to quit)
+2021-06-24 21:33:01,811 INFO werkzeug Thread-2 : 127.0.0.1 - - [24/Jun/2021 21:33:01] "POST /workspace HTTP/1.1" 200 -
+2021-06-24 21:51:05,769 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\manage.py', reloading
+2021-06-24 21:51:05,842 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:51:06,571 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:51:06,581 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:51:06,621 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-24 21:51:59,655 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-24 21:52:00,292 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-24 21:52:00,301 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-24 21:52:00,335 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:02:04,828 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:02:05,956 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:02:06,136 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:02:06,377 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:12:04,442 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:12:05,178 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:12:05,194 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:12:05,234 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:13:47,039 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-25 21:13:47,127 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:13:48,043 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:13:48,051 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:13:48,099 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:14:44,021 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-25 21:14:44,093 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:14:44,901 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:14:44,909 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:14:44,957 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:15:24,800 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-25 21:15:24,904 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:15:25,777 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:15:25,785 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:15:25,833 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:16:03,257 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-25 21:16:03,361 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:16:04,225 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:16:04,233 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:16:04,313 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:16:08,194 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:16:09,018 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:16:09,026 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:16:09,074 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:16:47,144 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 21:16:47] "POST /user HTTP/1.1" 200 -
+2021-06-25 21:17:22,156 INFO werkzeug Thread-3 : 127.0.0.1 - - [25/Jun/2021 21:17:22] "POST /user HTTP/1.1" 200 -
+2021-06-25 21:19:15,274 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-25 21:19:15,355 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:20:47,100 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:20:47,988 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:20:47,996 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:20:48,044 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:20:51,806 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 21:20:51] "delete /user/2 HTTP/1.1" 200 -
+2021-06-25 21:21:08,801 INFO werkzeug Thread-3 : 127.0.0.1 - - [25/Jun/2021 21:21:08] "[35m[1mGET /user/1 HTTP/1.1[0m" 500 -
+2021-06-25 21:22:36,207 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-25 21:22:36,367 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:27:56,523 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:27:57,757 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:27:57,781 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:27:57,861 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:28:00,927 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 21:28:00] "[35m[1mGET /user/1 HTTP/1.1[0m" 500 -
+2021-06-25 21:28:28,948 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:28:29,916 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:28:29,948 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:28:30,004 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:28:42,434 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-25 21:28:42,562 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:28:43,763 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:28:43,771 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:28:43,851 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:28:45,939 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:28:47,212 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:28:47,228 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:28:47,284 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:28:49,733 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 21:28:49] "GET /user/1 HTTP/1.1" 200 -
+2021-06-25 21:28:53,744 INFO werkzeug Thread-3 : 127.0.0.1 - - [25/Jun/2021 21:28:53] "GET /user/2 HTTP/1.1" 200 -
+2021-06-25 21:29:07,295 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-25 21:29:07,391 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:29:08,641 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:29:08,657 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:29:08,737 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:29:29,956 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 21:29:29] "POST /user HTTP/1.1" 200 -
+2021-06-25 21:30:09,069 INFO werkzeug Thread-3 : 127.0.0.1 - - [25/Jun/2021 21:30:09] "POST /user HTTP/1.1" 200 -
+2021-06-25 21:37:53,618 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\workspace.py', reloading
+2021-06-25 21:37:53,727 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:37:54,542 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:37:54,554 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:37:54,598 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:38:02,401 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-25 21:38:02,496 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:38:03,245 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:38:03,257 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:38:03,301 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:39:09,475 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-25 21:39:09,566 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:39:10,307 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:39:10,316 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:39:10,357 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:39:12,590 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-25 21:39:12,708 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:39:13,437 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:39:13,445 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:39:13,485 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:39:32,026 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-25 21:39:32,194 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:39:33,146 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:39:33,155 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:39:33,197 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:39:58,931 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 21:39:58] "[35m[1mPOST /workspace HTTP/1.1[0m" 500 -
+2021-06-25 21:40:45,705 INFO werkzeug Thread-3 : 127.0.0.1 - - [25/Jun/2021 21:40:45] "[35m[1mPOST /workspace HTTP/1.1[0m" 500 -
+2021-06-25 21:40:59,311 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-25 21:40:59,411 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:41:00,346 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:41:00,356 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:41:00,404 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:41:02,675 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 21:41:02] "[35m[1mPOST /workspace HTTP/1.1[0m" 500 -
+2021-06-25 21:41:22,718 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\workspace.py', reloading
+2021-06-25 21:41:22,801 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:41:23,538 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:41:23,547 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:41:23,588 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:41:25,825 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\workspace.py', reloading
+2021-06-25 21:41:25,979 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:41:26,722 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:41:26,730 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:41:26,771 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:41:28,526 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 21:41:28] "POST /workspace HTTP/1.1" 200 -
+2021-06-25 21:41:38,292 INFO werkzeug Thread-3 : 127.0.0.1 - - [25/Jun/2021 21:41:38] "POST /workspace HTTP/1.1" 200 -
+2021-06-25 21:41:49,296 INFO werkzeug Thread-4 : 127.0.0.1 - - [25/Jun/2021 21:41:49] "POST /workspace HTTP/1.1" 200 -
+2021-06-25 21:45:13,683 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:45:14,376 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:45:14,385 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:45:14,431 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:45:26,283 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 21:45:26] "POST /user HTTP/1.1" 200 -
+2021-06-25 21:46:17,488 INFO werkzeug Thread-3 : 127.0.0.1 - - [25/Jun/2021 21:46:17] "POST /user HTTP/1.1" 200 -
+2021-06-25 21:46:22,607 INFO werkzeug Thread-4 : 127.0.0.1 - - [25/Jun/2021 21:46:22] "POST /workspace HTTP/1.1" 200 -
+2021-06-25 21:46:50,967 INFO werkzeug Thread-5 : 127.0.0.1 - - [25/Jun/2021 21:46:50] "POST /workspace HTTP/1.1" 200 -
+2021-06-25 21:47:00,230 INFO werkzeug Thread-6 : 127.0.0.1 - - [25/Jun/2021 21:47:00] "POST /workspace HTTP/1.1" 200 -
+2021-06-25 21:47:36,356 INFO werkzeug Thread-7 : 127.0.0.1 - - [25/Jun/2021 21:47:36] "[35m[1mGET /workspaces HTTP/1.1[0m" 500 -
+2021-06-25 21:47:55,537 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-25 21:47:55,673 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:47:56,475 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:47:56,484 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:47:56,527 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:47:57,117 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 21:47:57] "[35m[1mGET /workspaces HTTP/1.1[0m" 500 -
+2021-06-25 21:48:12,144 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-25 21:48:12,313 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:48:13,041 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:48:13,050 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:48:13,092 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:48:14,383 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 21:48:14] "[35m[1mGET /workspaces HTTP/1.1[0m" 500 -
+2021-06-25 21:48:26,560 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-25 21:48:26,655 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:48:27,369 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:48:27,378 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:48:27,419 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:48:28,042 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 21:48:28] "[35m[1mGET /workspaces HTTP/1.1[0m" 500 -
+2021-06-25 21:48:35,148 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-25 21:48:35,248 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:48:36,307 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:48:36,329 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:48:36,447 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:48:36,740 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 21:48:36] "GET /workspaces HTTP/1.1" 200 -
+2021-06-25 21:49:02,230 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-25 21:49:02,310 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:49:03,086 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:49:03,095 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:49:03,139 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:49:04,455 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 21:49:04] "GET /workspaces HTTP/1.1" 200 -
+2021-06-25 21:49:26,796 INFO werkzeug Thread-3 : 127.0.0.1 - - [25/Jun/2021 21:49:26] "[35m[1mGET /workspace/1 HTTP/1.1[0m" 500 -
+2021-06-25 21:49:50,014 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-25 21:49:50,138 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:49:50,969 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:49:50,978 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:49:51,020 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:49:52,345 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 21:49:52] "GET /workspace/1 HTTP/1.1" 200 -
+2021-06-25 21:49:56,576 INFO werkzeug Thread-3 : 127.0.0.1 - - [25/Jun/2021 21:49:56] "GET /workspace/2 HTTP/1.1" 200 -
+2021-06-25 21:49:59,142 INFO werkzeug Thread-4 : 127.0.0.1 - - [25/Jun/2021 21:49:59] "GET /workspace/3 HTTP/1.1" 200 -
+2021-06-25 21:50:42,078 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-25 21:50:42,164 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:50:43,058 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:50:43,067 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:50:43,117 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:50:50,970 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 21:50:50] "GET /user/1 HTTP/1.1" 200 -
+2021-06-25 21:51:03,115 INFO werkzeug Thread-3 : 127.0.0.1 - - [25/Jun/2021 21:51:03] "GET /user/2 HTTP/1.1" 200 -
+2021-06-25 21:51:31,916 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-25 21:51:32,001 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:51:32,747 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:51:32,758 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:51:32,800 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:51:56,920 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 21:51:56] "GET /users HTTP/1.1" 200 -
+2021-06-25 21:52:15,200 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user.py', reloading
+2021-06-25 21:52:15,290 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:52:16,041 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:52:16,052 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:52:16,097 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:52:17,384 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 21:52:17] "GET /users HTTP/1.1" 200 -
+2021-06-25 21:52:27,271 INFO werkzeug Thread-3 : 127.0.0.1 - - [25/Jun/2021 21:52:27] "GET /workspaces HTTP/1.1" 200 -
+2021-06-25 21:52:50,470 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-25 21:52:50,631 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:52:51,359 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:52:51,368 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:52:51,411 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:52:53,661 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-25 21:52:53,778 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:52:54,643 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:52:54,652 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:52:54,694 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:52:55,864 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 21:52:55] "[35m[1mGET /workspaces HTTP/1.1[0m" 500 -
+2021-06-25 21:53:00,364 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\workspace.py', reloading
+2021-06-25 21:53:00,480 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 21:53:01,185 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 21:53:01,194 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 21:53:01,236 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 21:53:02,490 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 21:53:02] "GET /workspaces HTTP/1.1" 200 -
+2021-06-25 22:19:06,441 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\manage.py', reloading
+2021-06-25 22:19:06,716 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 22:19:08,634 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 22:19:08,651 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 22:19:08,728 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 22:19:16,414 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\manage.py', reloading
+2021-06-25 22:19:16,511 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 22:19:17,289 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 22:19:17,298 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 22:19:17,348 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 22:19:33,311 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\manage.py', reloading
+2021-06-25 22:19:33,450 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 22:19:34,713 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 22:19:34,733 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 22:19:34,821 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 22:19:45,149 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\manage.py', reloading
+2021-06-25 22:19:45,251 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 22:19:46,319 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 22:19:46,329 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 22:19:46,383 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 22:22:36,383 INFO werkzeug MainThread :  * Restarting with stat
+2021-06-25 22:22:37,147 WARNING werkzeug MainThread :  * Debugger is active!
+2021-06-25 22:22:37,157 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
+2021-06-25 22:22:37,208 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 22:24:04,872 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 22:24:23,413 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 22:24:30,857 INFO werkzeug Thread-1 : 127.0.0.1 - - [25/Jun/2021 22:24:30] "GET / HTTP/1.1" 200 -
+2021-06-25 22:24:32,251 INFO werkzeug Thread-2 : 127.0.0.1 - - [25/Jun/2021 22:24:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-06-25 22:24:35,184 INFO werkzeug Thread-3 : 127.0.0.1 - - [25/Jun/2021 22:24:35] "GET /users HTTP/1.1" 200 -
+2021-06-25 22:24:41,579 INFO werkzeug Thread-4 : 127.0.0.1 - - [25/Jun/2021 22:24:41] "GET /user/1 HTTP/1.1" 200 -
+2021-06-25 22:24:46,471 INFO werkzeug Thread-5 : 127.0.0.1 - - [25/Jun/2021 22:24:46] "GET /workspaces HTTP/1.1" 200 -
+2021-06-25 22:24:56,184 INFO werkzeug Thread-6 : 127.0.0.1 - - [25/Jun/2021 22:24:56] "GET /workspace/1 HTTP/1.1" 200 -
+2021-06-25 22:56:09,550 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-25 22:56:30,552 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
