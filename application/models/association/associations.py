@@ -10,7 +10,8 @@ class RoleEnum(enum.Enum):
 
 
 user_workspace = db.Table('user_workspace',
+                          db.Column('id', db.Integer, primary_key=True, autoincrement=True),
                           db.Column('user_id', db.Integer, db.ForeignKey('user.id')),
-                          db.Column('workspace_id', db.Integer, db.ForeignKey('workspace.id'))
+                          db.Column('workspace_id', db.Integer, db.ForeignKey('workspace.id')),
+                          db.Column('role', db.Enum(RoleEnum), default=RoleEnum.VIEWER)
                           )
-                          # db.Column('role', db.Enum(RoleEnum)))
