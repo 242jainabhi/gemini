@@ -1,8 +1,11 @@
-import datetime
+from datetime import datetime
 
-from application.models import invitation
 from sqlalchemy import exc
 from application import db
+from application.models import invitation
+from application.services.user_service import UserService
+from application.services.workspace_service import WorkspaceService
+from application.utils import send_invite
 
 
 class InvitationService:
@@ -25,13 +28,20 @@ class InvitationService:
         if inv.expired_at < datetime.utcnow():
             raise Exception('Invitation Expired!')
 
+        return inv
+
+    def update_invite_utilized(self, inv_obj):
+        if inv_obj.utilized:
+            # raising exception is not advised. Handle it in better way
+            raise Exception("The invitation already accepted")
         try:
-            inv.utilized = True
+            inv_obj.utilized = True
+            # inv_obj.updated_at = datetime.utcnow()
             db.session.commit()
         except:
             raise Exception("Error updating the invitation data", e)
 
-        return inv
+        return True
 
     def add_invitation(self, invitation_obj):
         try:
@@ -42,6 +52,17 @@ class InvitationService:
             raise Exception('Invitation not added', e)
         else:
             return True
+
+    def send_invitation_mail(self, invitation_obj):
+        # move this to service
+        # trigger the mail to receiver_email with the body (f'/accept_invite?uuid={invite_uuid}')
+        u = UserService().get_user(invitation_obj.sender_id)
+        w = WorkspaceService().get_workspace(invitation_obj.workspace_id)
+        sender_name = u.name
+        sender_mail = u.email
+        invite_link = f'http://localhost:5000/accept_invite?uuid={invitation_obj.invite_uuid}'
+        send_invite.SendInvite(sender_name, sender_mail, invitation_obj.receiver_email,
+                               invite_link).send_mail()
 
     # def update_user(self, user_obj, data):
     #     for k, v in data.items():

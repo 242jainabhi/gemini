@@ -1,23 +1,26 @@
 import datetime
 
 from application.constants import RoleEnum
-from . import db
-from application.models import user, workspace
+from application import db
+from application.models.user import User
+from application.models.workspace import Workspace
 
 
 class UserWorkspace(db.Model):
-    __tablename__ = 'user_workspace'
-    db.Column('id', db.Integer, primary_key=True, autoincrement=True)
-    db.Column('user_id', db.Integer, db.ForeignKey('user.id'))
-    db.Column('workspace_id', db.Integer, db.ForeignKey('workspace.id'))
-    db.Column('role', db.Enum(RoleEnum), default=RoleEnum.VIEWER)
+    __tablename__ = "user_workspace"
+
+    id = db.Column(db.Integer, primary_key=True, autoincrement=True)
+    user_id = db.Column(db.Integer, db.ForeignKey('user.id'))
+    workspace_id = db.Column(db.Integer, db.ForeignKey('workspace.id'))
+    role = db.Column(db.Enum(RoleEnum), default=RoleEnum.VIEWER)
     created_at = db.Column(db.DateTime, default=datetime.datetime.utcnow())
-    updated_at = db.Column(db.DateTime, nullable=True)
+    updated_at = db.Column(db.DateTime, nullable=True,
+                           onupdate=datetime.datetime.utcnow)
     deleted_at = db.Column(db.DateTime, nullable=True)
 
-    user = db.relationship(user.User,
-                           backref=db.backref('user_workspace',
-                                              cascade="all, delete-orphan"))
-    workspace = db.relationship(workspace.Workspace,
-                                backref=db.backref('user_workspace',
-                                                   cascade="all, delete-orphan"))
+    # user = db.relationship(User,
+    #                        backref=db.backref("user_workspace",
+    #                                           cascade="all, delete-orphan"))
+    # workspace = db.relationship(Workspace,
+    #                             backref=db.backref("user_workspace",
+    #                                                cascade="all, delete-orphan"))

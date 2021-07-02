@@ -1,6 +1,6 @@
 import datetime
 
-from application.models import user as um
+from application.models.user import User
 from sqlalchemy import exc
 from application import db
 
@@ -10,16 +10,17 @@ class UserService:
         pass
 
     def get_all_users(self):
-        return um.User().query.filter_by(deleted_at=None).all()
+        return User().query.filter_by(deleted_at=None).all()
 
     def get_user(self, user_id):
-        u = um.User.query.filter_by(id=user_id, deleted_at=None).first()
+        u = User.query.filter_by(id=user_id, deleted_at=None).first()
         if not u:
             raise Exception("User not found")
 
         return u
 
     def add_user(self, user_obj):
+        # User.query.filter_by(email=user_obj.email, db.isnot(deleted_at, None)).first()
         try:
             db.session.add(user_obj)
             db.session.commit()
@@ -30,15 +31,20 @@ class UserService:
             return True
 
     def update_user(self, user_obj, data):
-        for k, v in data.items():
-            setattr(user_obj, k, v)
+        if 'name' in data:
+            user_obj.name = data['name']
+        if 'email' in data:
+            user_obj.email = data['email']
+        if 'organization' in data:
+            user_obj.organization = data['organization']
 
+        # user_obj.updated_at = datetime.datetime.utcnow()
         try:
             db.session.commit()
         except exc.IntegrityError as e:
             raise Exception("Error updating the user", e)
         else:
-            return True
+            return "User updated successfully"
 
     def delete_user(self, user_obj):
         user_obj.deleted_at = datetime.datetime.utcnow()
@@ -46,3 +52,4 @@ class UserService:
             db.session.commit()
         except:
             raise Exception('Can not deleted user')
+        return f"Deleted user with id: {user_obj.id}"

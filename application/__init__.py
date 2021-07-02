@@ -16,6 +16,7 @@ if project_path not in sys.path:
 db = SQLAlchemy()
 migrate = Migrate()
 
+from application.models import user, workspace, invitation, user_workspace
 
 def create_app():
     """Create Flask app."""
