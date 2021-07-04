@@ -10,6 +10,12 @@ Root directory is 'gemini'. Create virtual environment and execute `pip install 
 
 Install MySQL and create a DB called `geminidb`.
 
+`export FLASK_APP=manage.py`
+
+`flask db migrate`
+
+`flask db upgrade`
+
 To launch the application on local server (127.0.0.1:5000), execute the command `python manage.py`.
 The app is now available on your local server.
 
