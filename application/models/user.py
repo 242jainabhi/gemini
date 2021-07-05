@@ -14,5 +14,6 @@ class User(db.Model):
     deleted_at = db.Column(db.DateTime, nullable=True)
 
     workspaces = db.relationship("Workspace", secondary="user_workspace",
-                                 backref=db.backref("users")) #, cascade="all, delete-orphan"))
+                                 backref=db.backref("users"))  #, cascade="all, delete-orphan"))
     invitations = db.relationship("Invitation", backref="users")
+    environments = db.relationship("Environment", backref="creator")

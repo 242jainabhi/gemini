@@ -21,3 +21,428 @@
 2021-07-01 22:21:23,764 INFO werkzeug MainThread :  * Debugger PIN: 275-770-140
 2021-07-01 22:21:23,846 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 2021-07-02 16:51:57,573 INFO werkzeug Thread-2 : 127.0.0.1 - - [02/Jul/2021 16:51:57] "GET /users HTTP/1.1" 200 -
+2021-07-04 17:17:14,785 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-04 17:17:16,115 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-04 17:17:16,288 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-04 17:17:16,533 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-04 17:17:23,662 INFO werkzeug Thread-2 : 127.0.0.1 - - [04/Jul/2021 17:17:23] "GET /user/1 HTTP/1.1" 200 -
+2021-07-04 17:17:28,367 INFO werkzeug Thread-3 : 127.0.0.1 - - [04/Jul/2021 17:17:28] "GET /workspaces HTTP/1.1" 200 -
+2021-07-04 17:17:50,913 INFO werkzeug Thread-4 : 127.0.0.1 - - [04/Jul/2021 17:17:50] "DELETE /workspace/24 HTTP/1.1" 200 -
+2021-07-04 17:17:54,873 INFO werkzeug Thread-5 : 127.0.0.1 - - [04/Jul/2021 17:17:54] "GET /workspaces HTTP/1.1" 200 -
+2021-07-04 20:35:03,021 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-04 20:35:03,997 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-04 20:35:04,341 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-04 20:35:05,704 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-04 20:37:52,440 INFO werkzeug Thread-2 : 127.0.0.1 - - [04/Jul/2021 20:37:52] "GET /users HTTP/1.1" 200 -
+2021-07-04 20:37:56,876 INFO werkzeug Thread-3 : 127.0.0.1 - - [04/Jul/2021 20:37:56] "GET /user/1 HTTP/1.1" 200 -
+2021-07-04 20:38:32,211 INFO werkzeug Thread-4 : 127.0.0.1 - - [04/Jul/2021 20:38:32] "[33mPOST /user HTTP/1.1[0m" 404 -
+2021-07-04 20:39:46,189 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\routes.py', reloading
+2021-07-04 20:39:50,371 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-04 20:40:05,904 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-04 20:40:07,134 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-04 20:40:07,608 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-04 21:53:09,298 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-04 21:53:10,332 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-04 21:53:10,563 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-04 21:53:10,950 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-04 21:53:33,945 INFO werkzeug Thread-2 : 127.0.0.1 - - [04/Jul/2021 21:53:33] "GET /users HTTP/1.1" 200 -
+2021-07-04 21:53:41,195 INFO werkzeug Thread-3 : 127.0.0.1 - - [04/Jul/2021 21:53:41] "GET /user/1 HTTP/1.1" 200 -
+2021-07-04 21:53:44,211 INFO werkzeug Thread-4 : 127.0.0.1 - - [04/Jul/2021 21:53:44] "[35m[1mGET /user/2 HTTP/1.1[0m" 500 -
+2021-07-04 21:53:49,444 INFO werkzeug Thread-5 : 127.0.0.1 - - [04/Jul/2021 21:53:49] "[35m[1mGET /user/3 HTTP/1.1[0m" 500 -
+2021-07-04 21:53:53,317 INFO werkzeug Thread-6 : 127.0.0.1 - - [04/Jul/2021 21:53:53] "GET /users HTTP/1.1" 200 -
+2021-07-04 21:53:58,686 INFO werkzeug Thread-7 : 127.0.0.1 - - [04/Jul/2021 21:53:58] "GET /user/5 HTTP/1.1" 200 -
+2021-07-04 21:54:03,569 INFO werkzeug Thread-8 : 127.0.0.1 - - [04/Jul/2021 21:54:03] "GET /user/1 HTTP/1.1" 200 -
+2021-07-04 21:56:37,056 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\api_space.py', reloading
+2021-07-04 21:56:37,367 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-04 21:56:38,890 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-04 21:56:38,905 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-04 21:56:38,971 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-04 22:07:11,706 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\api.py', reloading
+2021-07-04 22:07:11,869 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-04 22:07:13,081 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-04 22:07:13,092 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-04 22:07:13,206 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-04 22:07:31,030 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\api.py', reloading
+2021-07-04 22:07:31,336 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-04 22:07:33,924 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-04 22:07:33,948 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-04 22:07:34,085 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 20:03:41,932 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 20:03:43,041 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 20:03:43,276 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 20:03:43,588 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 20:04:04,856 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user_controller.py', reloading
+2021-07-05 20:04:05,398 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 20:04:06,386 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 20:04:06,401 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 20:04:06,607 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 20:05:12,658 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 20:05:12] "GET /users HTTP/1.1" 200 -
+2021-07-05 20:05:29,474 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\user_controller.py', reloading
+2021-07-05 20:05:29,677 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 20:05:30,608 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 20:05:30,608 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 20:05:30,749 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 20:06:45,677 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\environment.py', reloading
+2021-07-05 20:06:45,771 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 20:06:46,677 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 20:06:46,677 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 20:06:46,786 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 20:07:07,293 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\api.py', reloading
+2021-07-05 20:07:07,433 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 20:07:08,472 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 20:07:08,488 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 20:07:08,566 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 20:07:40,355 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\api.py', reloading
+2021-07-05 20:07:40,448 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 20:07:41,323 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 20:07:41,339 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 20:07:41,417 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 20:07:43,855 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\api.py', reloading
+2021-07-05 20:07:43,995 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 20:07:45,024 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 20:07:45,040 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 20:07:45,118 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 20:14:34,407 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\api_space.py', reloading
+2021-07-05 20:14:34,579 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:14:28,956 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:14:29,815 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:14:29,956 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:14:30,081 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:18:53,669 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\api_space.py', reloading
+2021-07-05 21:18:53,997 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:18:54,841 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:18:54,841 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:18:54,919 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:21:06,855 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 21:21:06] "[33mPOST /api_space HTTP/1.1[0m" 404 -
+2021-07-05 21:21:41,097 INFO werkzeug Thread-3 : 127.0.0.1 - - [05/Jul/2021 21:21:41] "[35m[1mGET /workspaces HTTP/1.1[0m" 500 -
+2021-07-05 21:21:49,632 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:21:50,432 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:21:50,432 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:21:50,510 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:22:02,073 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 21:22:02] "[35m[1mGET /users HTTP/1.1[0m" 500 -
+2021-07-05 21:23:07,703 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\__init__.py', reloading
+2021-07-05 21:23:07,797 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:23:08,641 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:23:08,641 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:23:08,719 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:25:38,630 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:25:39,412 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:25:39,412 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:25:39,490 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:25:42,908 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 21:25:42] "GET /users HTTP/1.1" 200 -
+2021-07-05 21:25:46,973 INFO werkzeug Thread-3 : 127.0.0.1 - - [05/Jul/2021 21:25:46] "GET /workspaces HTTP/1.1" 200 -
+2021-07-05 21:25:58,944 INFO werkzeug Thread-4 : 127.0.0.1 - - [05/Jul/2021 21:25:58] "[33mPOST /api_space HTTP/1.1[0m" 404 -
+2021-07-05 21:26:42,930 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 21:26:43,032 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:26:43,898 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:26:43,906 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:26:43,992 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:27:05,009 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 21:27:05,119 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:27:05,978 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:27:05,994 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:27:06,056 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:27:41,322 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 21:27:41,415 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:27:42,244 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:27:42,244 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:27:42,322 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:27:43,462 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 21:27:43,556 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:27:44,369 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:27:44,369 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:27:44,447 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:31:53,897 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 21:31:54,007 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:31:54,882 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:31:54,897 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:31:54,960 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:32:13,507 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 21:32:13,617 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:32:14,664 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:32:14,679 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:32:14,742 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:32:18,148 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 21:32:18,242 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:32:19,210 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:32:19,210 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:32:19,288 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:32:38,604 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\api_space.py', reloading
+2021-07-05 21:32:38,729 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:32:39,753 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:32:39,753 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:32:39,831 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:34:00,289 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\api_space.py', reloading
+2021-07-05 21:34:00,383 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:34:01,305 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:34:01,320 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:34:01,383 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:44:50,319 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:44:51,347 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:44:51,357 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:44:51,436 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:44:52,792 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 21:44:52] "[33mPOST /api_space HTTP/1.1[0m" 404 -
+2021-07-05 21:45:15,108 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 21:45:15,201 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:45:16,045 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:45:16,061 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:45:16,123 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:45:19,910 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 21:45:19] "[33mPOST /api_space HTTP/1.1[0m" 404 -
+2021-07-05 21:45:51,263 INFO werkzeug Thread-3 : 127.0.0.1 - - [05/Jul/2021 21:45:51] "[33mGET /api_space/1 HTTP/1.1[0m" 404 -
+2021-07-05 21:46:58,860 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 21:46:58,969 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:46:59,766 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:46:59,766 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:46:59,844 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:47:01,891 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 21:47:01] "[33mGET /api_space/1 HTTP/1.1[0m" 404 -
+2021-07-05 21:53:39,613 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 21:53:39,727 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:53:40,596 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:53:40,604 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:53:40,679 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:53:47,797 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 21:53:47,886 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:53:48,709 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:53:48,717 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:53:48,797 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:53:54,069 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:53:54,930 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:53:54,938 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:53:55,014 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:53:57,890 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 21:53:57] "[33mGET /api_space/1 HTTP/1.1[0m" 404 -
+2021-07-05 21:55:38,891 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 21:55:39,013 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:55:39,886 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:55:39,893 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:55:39,968 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:55:59,559 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\manage.py', reloading
+2021-07-05 21:55:59,684 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:56:00,574 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:56:00,574 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:56:00,652 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:56:05,129 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:56:05,968 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:56:05,975 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:56:06,049 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:56:07,461 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 21:56:07] "[33mGET /api_space/1 HTTP/1.1[0m" 404 -
+2021-07-05 21:58:39,043 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\manage.py', reloading
+2021-07-05 21:58:39,166 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:58:40,026 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:58:40,034 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:58:40,109 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:58:46,885 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\manage.py', reloading
+2021-07-05 21:58:46,994 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 21:58:47,847 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 21:58:47,855 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 21:58:47,925 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 21:58:50,262 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 21:58:50] "[33mGET /api_space/1 HTTP/1.1[0m" 404 -
+2021-07-05 21:59:51,387 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\__init__.py', reloading
+2021-07-05 21:59:51,487 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:03:08,768 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:03:09,565 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:03:09,565 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:03:09,643 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:03:13,538 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 22:03:13] "[33mGET /api_space/1 HTTP/1.1[0m" 404 -
+2021-07-05 22:03:27,927 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\__init__.py', reloading
+2021-07-05 22:03:28,052 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:03:28,880 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:03:28,896 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:03:28,959 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:03:31,224 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\__init__.py', reloading
+2021-07-05 22:03:31,318 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:03:32,287 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:03:32,287 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:03:32,365 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:04:10,609 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:04:10,794 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:04:11,669 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:04:11,676 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:04:11,750 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:04:17,600 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:04:17,697 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:04:18,520 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:04:18,528 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:04:18,603 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:04:42,744 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:04:42,844 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:04:43,739 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:04:43,746 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:04:43,820 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:04:51,030 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:04:51,124 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:04:52,030 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:04:52,030 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:04:52,108 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:04:54,624 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:04:54,749 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:04:55,996 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:04:55,996 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:04:56,074 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:05:40,141 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:05:40,251 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:05:41,094 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:05:41,094 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:05:41,173 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:05:58,630 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:05:58,724 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:05:59,631 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:05:59,631 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:05:59,709 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:06:08,955 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:06:09,065 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:06:09,893 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:06:09,893 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:06:09,971 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:06:30,434 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:06:30,543 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:06:31,371 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:06:31,371 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:06:31,465 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:07:15,332 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\routes.py', reloading
+2021-07-05 22:07:15,441 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:10:57,667 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:11:05,020 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:11:05,829 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:11:05,837 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:11:05,911 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:11:08,234 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 22:11:08] "[35m[1mGET /api_space/1 HTTP/1.1[0m" 500 -
+2021-07-05 22:11:35,868 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\routes.py', reloading
+2021-07-05 22:11:35,977 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:11:36,836 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:11:36,836 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:11:36,930 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:11:38,330 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 22:11:38] "[35m[1mGET /api_space/1 HTTP/1.1[0m" 500 -
+2021-07-05 22:11:46,737 INFO werkzeug Thread-3 : 127.0.0.1 - - [05/Jul/2021 22:11:46] "[35m[1mPOST /api_space HTTP/1.1[0m" 500 -
+2021-07-05 22:15:11,317 INFO werkzeug Thread-4 : 127.0.0.1 - - [05/Jul/2021 22:15:11] "[35m[1mPOST /api_space HTTP/1.1[0m" 500 -
+2021-07-05 22:18:06,380 INFO werkzeug Thread-5 : 127.0.0.1 - - [05/Jul/2021 22:18:06] "[35m[1mPOST /api_space HTTP/1.1[0m" 500 -
+2021-07-05 22:18:10,708 INFO werkzeug Thread-6 : 127.0.0.1 - - [05/Jul/2021 22:18:10] "[35m[1mPOST /api_space HTTP/1.1[0m" 500 -
+2021-07-05 22:20:25,091 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:20:25,216 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:20:26,123 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:20:26,123 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:20:26,201 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:20:26,795 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 22:20:26] "[35m[1mPOST /api_space HTTP/1.1[0m" 500 -
+2021-07-05 22:20:35,685 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:20:35,778 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:20:36,663 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:20:36,678 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:20:36,741 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:20:37,960 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 22:20:37] "[35m[1mPOST /api_space HTTP/1.1[0m" 500 -
+2021-07-05 22:21:22,417 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\models\\api_space.py', reloading
+2021-07-05 22:21:22,523 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:21:23,413 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:21:23,413 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:21:23,500 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:22:23,519 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:22:24,363 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:22:24,371 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:22:24,447 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:22:25,969 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 22:22:25] "POST /api_space HTTP/1.1" 200 -
+2021-07-05 22:28:01,587 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:28:01,706 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:28:02,626 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:28:02,634 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:28:02,705 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:28:55,545 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:28:55,655 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:28:56,498 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:28:56,498 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:28:56,592 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:29:22,850 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:29:23,022 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:29:23,897 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:29:23,897 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:29:23,975 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:29:54,995 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:29:55,105 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:29:55,949 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:29:55,949 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:29:56,027 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:30:20,783 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:30:20,892 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:30:21,798 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:30:21,798 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:30:21,876 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:30:25,892 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 22:30:25] "[35m[1mGET /api_spaces HTTP/1.1[0m" 500 -
+2021-07-05 22:31:01,078 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:31:01,171 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:31:02,046 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:31:02,062 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:31:02,124 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:31:03,093 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 22:31:03] "[35m[1mGET /api_spaces HTTP/1.1[0m" 500 -
+2021-07-05 22:31:08,221 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:31:08,318 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:31:09,178 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:31:09,178 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:31:09,256 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:31:10,160 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 22:31:10] "[35m[1mGET /api_spaces HTTP/1.1[0m" 500 -
+2021-07-05 22:31:35,992 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:31:36,117 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:31:37,148 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:31:37,148 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:31:37,226 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:31:39,570 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:31:39,664 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:31:40,539 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:31:40,554 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:31:40,617 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:31:46,576 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:31:46,670 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:31:47,545 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:31:47,561 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:31:47,623 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:31:48,791 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 22:31:48] "GET /api_spaces HTTP/1.1" 200 -
+2021-07-05 22:32:32,543 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:32:32,668 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:32:33,481 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:32:33,496 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:32:33,574 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:33:06,038 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 22:33:06] "[31m[1mPUT /api_spaces HTTP/1.1[0m" 405 -
+2021-07-05 22:33:32,088 INFO werkzeug Thread-3 : 127.0.0.1 - - [05/Jul/2021 22:33:32] "[35m[1mPUT /api_space/1 HTTP/1.1[0m" 500 -
+2021-07-05 22:33:45,557 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:33:45,651 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:33:46,542 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:33:46,542 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:33:46,620 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:33:47,857 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 22:33:47] "[35m[1mPUT /api_space/1 HTTP/1.1[0m" 500 -
+2021-07-05 22:34:48,495 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:34:48,669 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:34:49,541 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:34:49,548 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:34:49,628 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:34:51,816 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 22:34:51] "[35m[1mPUT /api_space/1 HTTP/1.1[0m" 500 -
+2021-07-05 22:34:59,810 INFO werkzeug Thread-3 : 127.0.0.1 - - [05/Jul/2021 22:34:59] "[35m[1mPUT /api_space/1 HTTP/1.1[0m" 500 -
+2021-07-05 22:35:59,031 INFO werkzeug Thread-4 : 127.0.0.1 - - [05/Jul/2021 22:35:59] "PUT /api_space/1 HTTP/1.1" 200 -
+2021-07-05 22:36:04,842 INFO werkzeug Thread-5 : 127.0.0.1 - - [05/Jul/2021 22:36:04] "GET /api_spaces HTTP/1.1" 200 -
+2021-07-05 22:36:09,154 INFO werkzeug Thread-6 : 127.0.0.1 - - [05/Jul/2021 22:36:09] "[35m[1mGET /api_space/1 HTTP/1.1[0m" 500 -
+2021-07-05 22:36:25,893 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:36:26,017 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:36:26,870 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:36:26,877 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:36:26,957 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:36:29,234 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:36:29,442 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:36:30,402 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:36:30,410 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:36:30,483 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:36:31,006 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 22:36:31] "GET /api_space/1 HTTP/1.1" 200 -
+2021-07-05 22:38:00,750 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\services\\api_space_service.py', reloading
+2021-07-05 22:38:00,863 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:38:01,831 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:38:01,838 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:38:01,913 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:39:14,771 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 22:39:14] "POST /api_space HTTP/1.1" 200 -
+2021-07-05 22:39:45,702 INFO werkzeug Thread-3 : 127.0.0.1 - - [05/Jul/2021 22:39:45] "PUT /api_space/2 HTTP/1.1" 200 -
+2021-07-05 22:39:59,824 INFO werkzeug Thread-4 : 127.0.0.1 - - [05/Jul/2021 22:39:59] "DELETE /api_space/2 HTTP/1.1" 200 -
+2021-07-05 22:41:06,871 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:41:06,980 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:41:07,972 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:41:07,972 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:41:08,050 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:41:24,447 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 22:41:24] "[35m[1mDELETE /api_space/2 HTTP/1.1[0m" 500 -
+2021-07-05 22:42:30,742 INFO werkzeug MainThread :  * Detected change in 'D:\\Python\\practice\\api_integration\\gemini\\application\\controllers\\api_space_controller.py', reloading
+2021-07-05 22:42:30,851 INFO werkzeug MainThread :  * Restarting with stat
+2021-07-05 22:42:31,695 WARNING werkzeug MainThread :  * Debugger is active!
+2021-07-05 22:42:31,711 INFO werkzeug MainThread :  * Debugger PIN: 606-181-546
+2021-07-05 22:42:31,789 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-05 22:42:33,492 INFO werkzeug Thread-2 : 127.0.0.1 - - [05/Jul/2021 22:42:33] "DELETE /api_space/2 HTTP/1.1" 200 -

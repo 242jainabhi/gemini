@@ -51,5 +51,5 @@ class UserService:
         try:
             db.session.commit()
         except:
-            raise Exception('Can not deleted user')
+            raise Exception('Can not delete user')
         return f"Deleted user with id: {user_obj.id}"

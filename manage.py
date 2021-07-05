@@ -2,7 +2,7 @@
 import logging
 from logging.handlers import TimedRotatingFileHandler
 
-from application import create_app, db, migrate
+from application import create_app  #, db, migrate
 from flask_restful import Api
 from application.controllers.routes import initialize_routes
 
@@ -18,7 +18,6 @@ app.logger.addHandler(handler)
 
 
 initialize_routes(api)
-
 
 @app.route('/')
 def run():

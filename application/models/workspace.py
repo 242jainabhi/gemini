@@ -13,3 +13,5 @@ class Workspace(db.Model):
 
     # users = db.relationship("User", secondary="user_workspace")
     invitations = db.relationship("Invitation", backref="workspaces")
+    api_spaces = db.relationship("ApiSpace", backref="workspace")
+    environments = db.relationship("Environment", backref="workspace")
