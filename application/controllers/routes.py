@@ -1,5 +1,5 @@
-from . import health_check_controller, user_controller, \
-    workspace_controller, invitation_controller, api_space_controller
+from . import health_check_controller, user_controller, workspace_controller, \
+    invitation_controller, api_space_controller, environment_controller, env_var_controller
 
 
 def initialize_routes(api):
@@ -11,4 +11,9 @@ def initialize_routes(api):
     api.add_resource(invitation_controller.Invitation, '/send_invite', '/accept_invite')
     api.add_resource(api_space_controller.ApiSpaceController, '/api_space/<int:api_space_id>', '/api_space')
     api.add_resource(api_space_controller.ApiSpacesController, '/api_spaces')
+    api.add_resource(environment_controller.EnvironmentController, '/environment/<int:env_id>', '/environment')
+    api.add_resource(environment_controller.EnvironmentsController, '/environments')
+    api.add_resource(env_var_controller.EnvVarController, '/env_var/<int:env_var_id>', '/env_var')
+    api.add_resource(env_var_controller.EnvVarsController, '/env_vars')
+
     # api.add_resource(invitation.Invitation, )
