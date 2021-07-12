@@ -6,11 +6,14 @@ from application import db
 
 
 class EnvVarService:
+    def __init__(self):
+        self.model = EnvVar
+
     def get_all_env_vars(self):
-        return EnvVar.query.filter_by(deleted_at=None).all()
+        return self.model.query.filter_by(deleted_at=None).all()
 
     def get_env_var(self, id):
-        env_var = EnvVar.query.filter_by(id=id, deleted_at=None).first()
+        env_var = self.model.query.filter_by(id=id, deleted_at=None).first()
         if not env_var:
             raise Exception("Environment variable not found")
 

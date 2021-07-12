@@ -2,7 +2,7 @@ from datetime import datetime
 
 from sqlalchemy import exc
 from application import db
-from application.models import invitation
+from application.models.invitation import Invitation
 from application.services.user_service import UserService
 from application.services.workspace_service import WorkspaceService
 from application.utils import send_invite
@@ -10,17 +10,19 @@ from application.utils import send_invite
 
 class InvitationService:
     def __init__(self):
-        pass
+        self.model = Invitation
+        self.user_service = UserService()
+        self.ws_service = WorkspaceService()
 
     def get_invitation(self, invitation_id):
-        inv = invitation.Invitation.query.filter_by(id=invitation_id).first()
+        inv = self.model.query.filter_by(id=invitation_id).first()
         if not inv:
             raise Exception("Invitation not found")
 
         return inv
 
     def get_invitation_by_uuid(self, uuid):
-        inv = invitation.Invitation.query.filter_by(invite_uuid=uuid).first()
+        inv = self.model.query.filter_by(invite_uuid=uuid).first()
         if not inv:
             raise Exception("Invitation not found")
         if inv.deleted_at is not None:
@@ -56,8 +58,8 @@ class InvitationService:
     def send_invitation_mail(self, invitation_obj):
         # move this to service
         # trigger the mail to receiver_email with the body (f'/accept_invite?uuid={invite_uuid}')
-        u = UserService().get_user(invitation_obj.sender_id)
-        w = WorkspaceService().get_workspace(invitation_obj.workspace_id)
+        u = self.user_service.get_user(invitation_obj.sender_id)
+        w = self.ws_service.get_workspace(invitation_obj.workspace_id)
         sender_name = u.name
         sender_mail = u.email
         invite_link = f'http://localhost:5000/accept_invite?uuid={invitation_obj.invite_uuid}'

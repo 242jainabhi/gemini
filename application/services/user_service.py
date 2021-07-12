@@ -7,13 +7,13 @@ from application import db
 
 class UserService:
     def __init__(self):
-        pass
+        self.model = User
 
     def get_all_users(self):
-        return User().query.filter_by(deleted_at=None).all()
+        return self.model.query.filter_by(deleted_at=None).all()
 
     def get_user(self, user_id):
-        u = User.query.filter_by(id=user_id, deleted_at=None).first()
+        u = self.model.query.filter_by(id=user_id, deleted_at=None).first()
         if not u:
             raise Exception("User not found")
 

@@ -14,4 +14,4 @@ class ApiSpace(db.Model):
                            onupdate=datetime.utcnow)
     deleted_at = db.Column(db.DateTime, nullable=True)
 
-    api = db.relationship('Api', backref='api_space', uselist=False)
+    api_endpoint = db.relationship('ApiEndpoint', backref='api_space', uselist=False)

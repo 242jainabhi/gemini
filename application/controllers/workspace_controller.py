@@ -8,9 +8,12 @@ import datetime
 
 
 class WorkspaceController(Resource):
+    def __init__(self):
+        self.service = WorkspaceService()
+        self.user_service = UserService()
 
     def get(self, ws_id):
-        w = WorkspaceService().get_workspace(ws_id)
+        w = self.service.get_workspace(ws_id)
         resp = {'id': w.id, 'name': w.name, 'created_at': w.created_at,
                 'users': [x.name for x in w.users]}
         return make_response(jsonify(resp), 200)
@@ -21,33 +24,36 @@ class WorkspaceController(Resource):
         creator_id = data['creator_id']
 
         # check if user exists. if not, user_service wil raise exception
-        u = UserService().get_user(creator_id)
+        u = self.user_service.get_user(creator_id)
 
         ws_obj = Workspace(name=name)
-        response = WorkspaceService().add_workspace(ws_obj, u.id)
+        response = self.service.add_workspace(ws_obj, u.id)
         if response:
             data['id'] = ws_obj.id
             return make_response(jsonify(data), 200)
 
     def put(self, ws_id):
-        w = WorkspaceService().get_workspace(ws_id)
+        w = self.service.get_workspace(ws_id)
         data = request.get_json()
-        resp = WorkspaceService().update_workspace(w, data)
+        resp = self.service.update_workspace(w, data)
         if resp:
             return "Workspace updated successfully"
 
     def delete(self, ws_id):
         # delete workspace and relation
-        w = WorkspaceService().get_workspace(ws_id)
+        w = self.service.get_workspace(ws_id)
 
         w.users = []
-        WorkspaceService().delete_workspace(w)
+        self.service.delete_workspace(w)
         return f"Deleted workspace with id: {ws_id}"
 
 
 class Workspaces(Resource):
+    def __init__(self):
+        self.service = WorkspaceService()
+
     def get(self):
-        workspaces = WorkspaceService().get_all_workspaces()
+        workspaces = self.service.get_all_workspaces()
         resp = {}
         for w in workspaces:
             resp[w.id] = {'name': w.name, 'created_at': w.created_at,

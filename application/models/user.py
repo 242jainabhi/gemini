@@ -17,3 +17,4 @@ class User(db.Model):
                                  backref=db.backref("users"))  #, cascade="all, delete-orphan"))
     invitations = db.relationship("Invitation", backref="users")
     environments = db.relationship("Environment", backref="creator")
+    api_endpoints = db.relationship("ApiEndpoint", backref="author")

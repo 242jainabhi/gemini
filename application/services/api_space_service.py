@@ -6,20 +6,23 @@ from application import db
 
 
 class ApiSpaceService:
+    def __init__(self):
+        self.model = ApiSpace
+
     def get_all_api_spaces(self):
-        return ApiSpace.query.filter_by(deleted_at=None).all()
+        return self.model.query.filter_by(deleted_at=None).all()
 
     def get_api_space(self, id):
-        space = ApiSpace.query.filter_by(id=id, deleted_at=None).first()
+        space = self.model.query.filter_by(id=id, deleted_at=None).first()
         if not space:
             raise Exception("Api Space not found")
 
         return space
 
-    def add_api_space(self, api_sapce_obj):
+    def add_api_space(self, api_space_obj):
         # User.query.filter_by(email=user_obj.email, db.isnot(deleted_at, None)).first()
         try:
-            db.session.add(api_sapce_obj)
+            db.session.add(api_space_obj)
             db.session.commit()
         except exc.IntegrityError as e:
             db.session.rollback()
@@ -27,11 +30,11 @@ class ApiSpaceService:
         else:
             return True
 
-    def update_api_space(self, api_sapce_obj, data):
+    def update_api_space(self, api_space_obj, data):
         if 'name' in data:
-            api_sapce_obj.name = data['name']
+            api_space_obj.name = data['name']
         if 'documentation' in data:
-            api_sapce_obj.documentation = data['documentation']
+            api_space_obj.documentation = data['documentation']
 
         try:
             db.session.commit()
@@ -40,10 +43,10 @@ class ApiSpaceService:
         else:
             return "Api Space updated successfully"
 
-    def delete_api_space(self, api_sapce_obj):
-        api_sapce_obj.deleted_at = datetime.datetime.utcnow()
+    def delete_api_space(self, api_space_obj):
+        api_space_obj.deleted_at = datetime.datetime.utcnow()
         try:
             db.session.commit()
         except:
             raise Exception('Can not delete api space')
-        return f"Deleted api space with id: {api_sapce_obj.id}"
+        return f"Deleted api space with id: {api_space_obj.id}"

@@ -11,13 +11,15 @@ from application import db
 
 class WorkspaceService:
     def __init__(self):
-        pass
+        self.model = Workspace
+        self.user_ws_model = UserWorkspace
+        self.user_ws_service = UserWSService()
 
     def get_all_workspaces(self):
-        return Workspace.query.filter_by(deleted_at=None).all()
+        return self.model.query.filter_by(deleted_at=None).all()
 
     def get_workspace(self, ws_id):
-        ws = Workspace.query.filter_by(id=ws_id, deleted_at=None).first()
+        ws = self.model.query.filter_by(id=ws_id, deleted_at=None).first()
         if not ws:
             raise Exception("Workspace not found")
 
@@ -29,9 +31,9 @@ class WorkspaceService:
             db.session.commit()
 
             # add association, then add workspace
-            u_ws_obj = UserWorkspace(user_id=creator_id, workspace_id=ws_obj.id,
+            u_ws_obj = self.user_ws_model(user_id=creator_id, workspace_id=ws_obj.id,
                                      role=RoleEnum.ADMIN)
-            resp = UserWSService().add_association(u_ws_obj)
+            resp = self.user_ws_service.add_association(u_ws_obj)
             if not resp[0]:
                 db.session.delete(ws_obj)
                 db.session.commit()

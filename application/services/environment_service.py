@@ -6,11 +6,14 @@ from application import db
 
 
 class EnvironmentService:
+    def __init__(self):
+        self.model = Environment
+
     def get_all_envs(self):
-        return Environment.query.filter_by(deleted_at=None).all()
+        return self.model.query.filter_by(deleted_at=None).all()
 
     def get_environment(self, id):
-        env = Environment.query.filter_by(id=id, deleted_at=None).first()
+        env = self.model.query.filter_by(id=id, deleted_at=None).first()
         if not env:
             raise Exception("Environment not found")
 
